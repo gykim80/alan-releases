@@ -1,11 +1,11 @@
 {
-  "version": "0.1.0",
-  "notes": "Alan 0.1.0",
-  "pub_date": "2026-04-09T09:00:18Z",
+  "version": "0.1.1",
+  "notes": "Alan 0.1.1",
+  "pub_date": "2026-04-10T06:11:14Z",
   "platforms": {
     "darwin-aarch64": {
       "url": "https://gykim80.github.io/alan-releases/Alan.app_aarch64.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclhaWGswMFluTXlITVlUYkdFdUxGMTNWbEg2TnhwQVRNWDFWZFpsQ0NQOEFoMEtDZmpCYnNEa0JuNnQwdjM1M21ZRjdzYVdOeWZaNi9hZUhPaU5JT2VyZ3h1RDcxandrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NzI1MDYyCWZpbGU6QWxhbi5hcHAudGFyLmd6CkVIaFYrdWxLVHAyTDJQczlVWVMxV2xCcDV3SzIwaml3dWtOMGhjYXVwSkFrVzNnTklTR3RwaTlZVkJBQVl4U1A2NDBMMjM5cnNmR2xOTTUvY3BTYUF3PT0K"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclhaWGswMFluTTB4NTVIVko2L0NPYkNiSUl2OHNnRHlZMVVQL1dla3lUOUwzem1obGcwQnU3YmJYekpITjRVczd4ZHMvbE8zMXoxbUoxU3BpWi94OUl1ZWFXOHVxWEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1ODAxMzAzCWZpbGU6QWxhbi5hcHAudGFyLmd6CkJJOHVkT0orRm9GMlVxejlpRkdzTHhhd1dNRVhMd2tNNmt5bjJ2VU5WMlJFaHZLTVZZSGhMM3AzTHd1b09qUWZHdXliSEdsWkxiUldWSDUvWjVuaUJnPT0K"
     },
     "darwin-x86_64": {
       "url": "https://gykim80.github.io/alan-releases/Alan.app_x86_64.tar.gz",
